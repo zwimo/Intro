@@ -1,8 +1,5 @@
-// File Name: program2.cpp
 // Author: Zachary Mollett
-// Student ID: r753k622
 // Assignment Number: 2
-
 
 #include <iostream>
 using namespace std;
