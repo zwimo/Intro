@@ -1,9 +1,5 @@
-// File Name: program1.cpp
 // Author: Zachary Mollett
-// Student ID: r753k622
 // Assignment Number: 1
-// Description: Calculates sum, difference, product and quotient by given two numbers.
-// Last Changed: August 26, 2014
 
 #include <iostream>
 using namespace std;
